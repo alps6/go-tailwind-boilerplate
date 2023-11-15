@@ -1,6 +1,7 @@
 # Golang with Tailwind
 
 setup tailwind css with golang using postcss
+Based on: [https://github.com/tailwindlabs/tailwindcss-setup-examples/blob/3f4c23077c4362de8cd0db0645161b7688e4135d/examples/golang-postcss-only/README.md?plain=1]()
 
 ## Setup
 
